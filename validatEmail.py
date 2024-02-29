@@ -67,8 +67,8 @@ userName = input("请输入用户名：")
 receiver_email = f"{userName}@autuni.ac.nz"
 
 # 在这里填写你的邮箱账户信息和要发送的邮件内容
-sender_email = "lyuwenyang123@outlook.com"
-sender_password = "Huawei12#$"
+sender_email = "xxxx@outlook.com"
+sender_password = "xxxxxxxx"
 subject = "欢迎加入AUT 2024届2月开学（大群）"
 
 # 创建 HTML 格式的邮件内容
